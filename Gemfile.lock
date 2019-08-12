@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    to_words (1.1.1)
+    tts (0.7.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  to_words
+  tts
+
+BUNDLED WITH
+   2.0.1
